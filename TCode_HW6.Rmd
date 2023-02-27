@@ -25,11 +25,6 @@ csl: "ecology.csl"
 \fancyhead[R]{Assignment 6}
 \fancyfoot[C]{\thepage}
 
-```{r, include = FALSE}
-# set pandoc for formatting
-#options("citation_format" = "pandoc")
-```
-
 # Abstract
 
 Ut non ac sed nulla aliquam posuere imperdiet ultricies sed. Erat praesent feugiat a etiam non vitae morbi maximus felis. Sit mauris fames dolor senectus mollis. Ligula vitae dapibus duis morbi ut dolor porta, in in. Porttitor ex tellus penatibus placerat condimentum lectus. Est aenean turpis nisl, at tortor, etiam, dictumst. Tincidunt nunc tristique penatibus nullam porta malesuada dis, in. Venenatis ut vitae suspendisse tristique class amet. Sed ac, massa at. Mollis ipsum nisl vehicula vel ultricies tortor, amet eu sit facilisis donec sit, non. Erat ultrices tellus vel vulputate felis.
