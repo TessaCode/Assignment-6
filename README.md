@@ -1,2 +1,2 @@
 # Assignment-6
-rep for HW assignment #6
+repo for HW assignment #6
